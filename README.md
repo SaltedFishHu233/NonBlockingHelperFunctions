@@ -2,6 +2,8 @@
 ## Introduction:
 - This library aims to provide a modular solution to simulate multi-threading on singular thread platforms such as the Arduino Uno.
 - This library will be continuously updated to account for more situations where multi-threading would be required.
+## Installation:
+Download the .zip file, and import zip library from Arduino IDE under sketch->Include Library->Add .zip Library.
 ## Functions and Usage:
 ### MultiTaskTime
 - This variable is defined by
